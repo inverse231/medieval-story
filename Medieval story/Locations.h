@@ -1,0 +1,20 @@
+#ifndef LOCATIONS_H_INCLUDED
+#define LOCATIONS_H_INCLUDED
+void Start();
+void StartLocation();
+void Plains();
+void Caravan();
+void CastleEnter();
+void Castle();
+void Trader();
+void TraderArmor();
+void TraderWeapons();
+void Village();
+void civdial();
+void HauntedH();
+void Basement();
+void kingdial();
+void Arena();
+void Dungeon();
+void Cave();
+#endif // LOCATIONS_H_INCLUDED

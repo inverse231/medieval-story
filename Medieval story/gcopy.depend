@@ -1,0 +1,854 @@
+# depslib dependency file v1.0
+1480279845 source:/media/inverse/Acer/C/just for fun/gcopy/ExternalFunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1481640679 unctions.h"
+
+1479931601 /media/inverse/Acer/C/just for fun/gcopy/headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1479931601 >
+
+1480286487 /media/inverse/Acer/C/just for fun/gcopy/defines.h
+
+1480286467 source:/media/inverse/Acer/C/just for fun/gcopy/Locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480279369 /media/inverse/Acer/C/just for fun/gcopy/ExternalFunctions.h
+
+1480279406 source:/media/inverse/Acer/C/just for fun/gcopy/main.c
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484830899 .h"
+
+1480284136 /media/inverse/Acer/C/just for fun/gcopy/Locations.h
+
+1480281986 source:/media/inverse/Acer/C/just for fun/gcopy/Menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480372071 source:/home/inverse/Dropbox/game/0.3/gcopy/ExternalFunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1479931601 /home/inverse/Dropbox/game/0.3/gcopy/headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1480321958 /home/inverse/Dropbox/game/0.3/gcopy/defines.h
+
+1480365702 /home/inverse/Dropbox/game/0.3/gcopy/ExternalFunctions.h
+
+1480371812 source:/home/inverse/Dropbox/game/0.3/gcopy/main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480320013 /home/inverse/Dropbox/game/0.3/gcopy/Locations.h
+
+1480368043 source:/home/inverse/Dropbox/game/0.3/gcopy/Menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480372071 source:/home/alex/Dropbox/game/0.3/gcopy/ExternalFunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1479931601 /home/alex/Dropbox/game/0.3/gcopy/headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1480321958 /home/alex/Dropbox/game/0.3/gcopy/defines.h
+
+1480365702 /home/alex/Dropbox/game/0.3/gcopy/ExternalFunctions.h
+
+1480371812 source:/home/alex/Dropbox/game/0.3/gcopy/Locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480368043 source:/home/alex/Dropbox/game/0.3/gcopy/Menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480371812 source:/home/alex/Dropbox/game/0.3/gcopy/main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480320013 /home/alex/Dropbox/game/0.3/gcopy/Locations.h
+
+1480371812 source:/home/inverse/Dropbox/game/0.3/gcopy/Locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480372071 source:c:\users\3xinv\dropbox\game\0.3\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1479931601 c:\users\3xinv\dropbox\game\0.3\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1480834845 c:\users\3xinv\dropbox\game\0.3\gcopy\defines.h
+
+1480365702 c:\users\3xinv\dropbox\game\0.3\gcopy\externalfunctions.h
+
+1480371812 source:c:\users\3xinv\dropbox\game\0.3\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480371812 source:c:\users\3xinv\dropbox\game\0.3\gcopy\main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480320013 c:\users\3xinv\dropbox\game\0.3\gcopy\locations.h
+
+1480368043 source:c:\users\3xinv\dropbox\game\0.3\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481147194 source:d:\dropbox\game\0.3\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1479931601 d:\dropbox\game\0.3\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1480834845 d:\dropbox\game\0.3\gcopy\defines.h
+
+1480365702 d:\dropbox\game\0.3\gcopy\externalfunctions.h
+
+1480371812 source:d:\dropbox\game\0.3\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1480371812 source:d:\dropbox\game\0.3\gcopy\main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1480320013 d:\dropbox\game\0.3\gcopy\locations.h
+
+1480368043 source:d:\dropbox\game\0.3\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748871 source:c:\users\Роман\dropbox\game\0.4\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\Роман\dropbox\game\0.4\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1481748872 
+
+1481622541 c:\users\Роман\dropbox\game\0.4\gcopy\defines.h
+
+1481748775 c:\users\Роман\dropbox\game\0.4\gcopy\externalfunctions.h
+
+1481749140 source:c:\users\Роман\dropbox\game\0.4\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481633334 source:c:\users\Роман\dropbox\game\0.4\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481653805 c:\users\Роман\dropbox\game\0.4\gcopy\locations.h
+
+1481632641 source:c:\users\Роман\dropbox\game\0.4\gcopy\main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748871 source:d:\dropbox\game\0.4\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\0.4\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1481622541 d:\dropbox\game\0.4\gcopy\defines.h
+
+1481748775 d:\dropbox\game\0.4\gcopy\externalfunctions.h
+
+1481747453 source:d:\dropbox\game\0.4\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"Locations.h"
+	"ExternalFunctions.h"
+
+1481748872 source:d:\dropbox\game\0.4\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481653805 d:\dropbox\game\0.4\gcopy\locations.h
+
+1481633334 source:d:\dropbox\game\0.4\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481632641 source:c:\users\Александр\dropbox\game\0.4\gcopy\main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481622541 c:\users\Александр\dropbox\game\0.4\gcopy\defines.h
+
+1481557746 c:\users\Александр\dropbox\game\0.4\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1481633148 c:\users\Александр\dropbox\game\0.4\gcopy\externalfunctions.h
+
+1481594163 c:\users\Александр\dropbox\game\0.4\gcopy\locations.h
+
+1481633334 source:c:\users\Александр\dropbox\game\0.4\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481634323 source:c:\users\Александр\dropbox\game\0.4\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1481618394 source:c:\users\Александр\dropbox\game\0.4\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"Locations.h"
+	"ExternalFunctions.h"
+
+1481638598 source:c:\users\3xinv\dropbox\game\0.4\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+
+1481557746 c:\users\3xinv\dropbox\game\0.4\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1481622541 c:\users\3xinv\dropbox\game\0.4\gcopy\defines.h
+
+1481633148 c:\users\3xinv\dropbox\game\0.4\gcopy\externalfunctions.h
+
+1481640679 source:c:\users\3xinv\dropbox\game\0.4\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"Locations.h"
+	"ExternalFunctions.h"
+
+1481594163 c:\users\3xinv\dropbox\game\0.4\gcopy\locations.h
+
+1481632641 source:c:\users\3xinv\dropbox\game\0.4\gcopy\main.c
+	"defines.h"
+	"headers.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481633334 source:c:\users\3xinv\dropbox\game\0.4\gcopy\menu.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482096024 source:c:\users\Роман\dropbox\game\0.5\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\Роман\dropbox\game\0.5\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482057206 c:\users\Роман\dropbox\game\0.5\gcopy\defines.h
+
+1482057228 c:\users\Роман\dropbox\game\0.5\gcopy\externalfunctions.h
+
+1482128588 c:\users\Роман\dropbox\game\0.5\gcopy\locations.h
+
+1482135773 source:c:\users\Роман\dropbox\game\0.5\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482087064 source:c:\users\Роман\dropbox\game\0.5\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482436737 source:d:\dropbox\game\0.5\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\0.5\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482057206 d:\dropbox\game\0.5\gcopy\defines.h
+
+1482436712 d:\dropbox\game\0.5\gcopy\externalfunctions.h
+
+1482128588 d:\dropbox\game\0.5\gcopy\locations.h
+
+1482436981 source:d:\dropbox\game\0.5\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482436978 source:d:\dropbox\game\0.5\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482442043 source:c:\users\3xinv\dropbox\game\0.5\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\3xinv\dropbox\game\0.5\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482057206 c:\users\3xinv\dropbox\game\0.5\gcopy\defines.h
+
+1482436712 c:\users\3xinv\dropbox\game\0.5\gcopy\externalfunctions.h
+
+1482584671 c:\users\3xinv\dropbox\game\0.5\gcopy\locations.h
+
+1482588336 source:c:\users\3xinv\dropbox\game\0.5\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482436981 source:c:\users\3xinv\dropbox\game\0.5\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482783082 source:c:\users\3xinv\dropbox\game\0.6\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\3xinv\dropbox\game\0.6\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482057206 c:\users\3xinv\dropbox\game\0.6\gcopy\defines.h
+
+1482701610 c:\users\3xinv\dropbox\game\0.6\gcopy\externalfunctions.h
+
+1482584671 c:\users\3xinv\dropbox\game\0.6\gcopy\locations.h
+
+1482781007 source:c:\users\3xinv\dropbox\game\0.6\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482781007 source:d:\dropbox\game\0.6\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\0.6\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482787311 d:\dropbox\game\0.6\gcopy\defines.h
+
+1482701610 d:\dropbox\game\0.6\gcopy\externalfunctions.h
+
+1483481640 d:\dropbox\game\0.6\gcopy\locations.h
+
+1483481523 source:d:\dropbox\game\0.6\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1483482300 source:d:\dropbox\game\0.6\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482794253 source:c:\users\Роман\dropbox\game\0.6\gcopy\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\Роман\dropbox\game\0.6\gcopy\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482787311 c:\users\Роман\dropbox\game\0.6\gcopy\defines.h
+
+1482701610 c:\users\Роман\dropbox\game\0.6\gcopy\externalfunctions.h
+
+1482788924 c:\users\Роман\dropbox\game\0.6\gcopy\locations.h
+
+1482886220 source:c:\users\Роман\dropbox\game\0.6\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482781007 source:c:\users\Роман\dropbox\game\0.6\gcopy\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1482783327 source:c:\users\3xinv\dropbox\game\0.6\gcopy\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484426165 source:d:\dropbox\game\0.7\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\0.7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484423937 d:\dropbox\game\0.7\defines.h
+
+1484426151 d:\dropbox\game\0.7\externalfunctions.h
+
+1484402443 d:\dropbox\game\0.7\locations.h
+
+1484426070 source:d:\dropbox\game\0.7\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484425263 source:d:\dropbox\game\0.7\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484521886 source:c:\users\admin\dropbox\game\0.7\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\admin\dropbox\game\0.7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484423937 c:\users\admin\dropbox\game\0.7\defines.h
+
+1484426151 c:\users\admin\dropbox\game\0.7\externalfunctions.h
+
+1484511747 c:\users\admin\dropbox\game\0.7\locations.h
+
+1484517728 source:c:\users\admin\dropbox\game\0.7\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484425263 source:c:\users\admin\dropbox\game\0.7\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484419003 source:c:\users\ksuks\dropbox\game\0.7\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\ksuks\dropbox\game\0.7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1482787311 c:\users\ksuks\dropbox\game\0.7\defines.h
+
+1484418787 c:\users\ksuks\dropbox\game\0.7\externalfunctions.h
+
+1484402443 c:\users\ksuks\dropbox\game\0.7\locations.h
+
+1484404123 source:c:\users\ksuks\dropbox\game\0.7\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484413295 source:c:\users\ksuks\dropbox\game\0.7\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484548273 source:d:\dropbox\game\1.0\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\1.0\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484423937 d:\dropbox\game\1.0\defines.h
+
+1484541230 d:\dropbox\game\1.0\externalfunctions.h
+
+1484511747 d:\dropbox\game\1.0\locations.h
+
+1484541484 source:d:\dropbox\game\1.0\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484425263 source:d:\dropbox\game\1.0\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484541484 source:c:\users\Александр\dropbox\game\1.0\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\Александр\dropbox\game\1.0\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484423937 c:\users\Александр\dropbox\game\1.0\defines.h
+
+1484541230 c:\users\Александр\dropbox\game\1.0\externalfunctions.h
+
+1484511747 c:\users\Александр\dropbox\game\1.0\locations.h
+
+1484425263 source:c:\users\Александр\dropbox\game\1.0\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484833907 source:c:\users\Александр\dropbox\game\0.8\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\Александр\dropbox\game\0.8\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484829770 c:\users\Александр\dropbox\game\0.8\defines.h
+
+1484829815 c:\users\Александр\dropbox\game\0.8\externalfunctions.h
+
+1484511747 c:\users\Александр\dropbox\game\0.8\locations.h
+
+1484830899 source:c:\users\Александр\dropbox\game\0.8\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484858933 source:c:\users\Александр\dropbox\game\0.8\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484858933 source:d:\dropbox\game\0.8\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 d:\dropbox\game\0.8\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484829770 d:\dropbox\game\0.8\defines.h
+
+1484829815 d:\dropbox\game\0.8\externalfunctions.h
+
+1484511747 d:\dropbox\game\0.8\locations.h
+
+1484830899 source:d:\dropbox\game\0.8\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484858516 source:d:\dropbox\game\0.8\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484860194 source:c:\users\admin\dropbox\game\0.8\externalfunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 c:\users\admin\dropbox\game\0.8\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484829770 c:\users\admin\dropbox\game\0.8\defines.h
+
+1484829815 c:\users\admin\dropbox\game\0.8\externalfunctions.h
+
+1484511747 c:\users\admin\dropbox\game\0.8\locations.h
+
+1484858933 source:c:\users\admin\dropbox\game\0.8\locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484830899 source:c:\users\admin\dropbox\game\0.8\main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484860516 source:/home/inverse/Dropbox/game/0.8/ExternalFunctions.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1481748872 /home/inverse/Dropbox/game/0.8/headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1484829770 /home/inverse/Dropbox/game/0.8/defines.h
+
+1484829815 /home/inverse/Dropbox/game/0.8/ExternalFunctions.h
+
+1484511747 /home/inverse/Dropbox/game/0.8/Locations.h
+
+1484858933 source:/home/inverse/Dropbox/game/0.8/Locations.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
+1484830899 source:/home/inverse/Dropbox/game/0.8/main.c
+	"headers.h"
+	"defines.h"
+	"ExternalFunctions.h"
+	"Locations.h"
+
